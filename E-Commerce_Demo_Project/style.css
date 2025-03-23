@@ -71,7 +71,7 @@ padding: 10px 15px;
     padding: 20px;
     margin: 20px;
     background-attachment: fixed;
-    display: flex;
+   
    
 }
 .container-1-1 h1{
@@ -181,5 +181,5 @@ footer{
 body{
     position: relative;
     background-attachment: fixed;
-    display: flex;
+   
 }
